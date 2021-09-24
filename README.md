@@ -4,7 +4,7 @@
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:freecode.git@gmail.com)
 
 
-I'm Mikey and I'm currently a undergraduate student set to graduate in May 2022 and a software engineer over at [The Collaboratory](https://thecollaboratory.ai/collaboratory/).
+I'm currently a undergraduate student set to graduate in May 2022 and a software engineer over at [The Collaboratory](https://thecollaboratory.ai/collaboratory/).
 
 -  ⚡ Languages: Python, C++
 - 🔭 I’m currently working on [a new kind of search](https://thecollaboratory.ai/collaboratory/about-us).
