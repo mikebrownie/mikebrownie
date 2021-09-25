@@ -1,16 +1,16 @@
-### Hi there 👋
-
+### Hi there, I'm Mikey 👋
+____
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-brown-26a274166/)
 [![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:freecode.git@gmail.com)
-
-
+____
 I'm currently a undergraduate student set to graduate in May 2022 and a software engineer over at [The Collaboratory](https://thecollaboratory.ai/collaboratory/).
 
--  ⚡ Languages: Python, C++
 - 🔭 I’m currently working on [a new kind of search](https://thecollaboratory.ai/collaboratory/about-us).
 - 🌱 I’m currently learning about natural language processing.
 - 💬 Ask me about my web scrapers!
 - 😄 Pronouns: he/him
+
+____
 
 ![image](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![image](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
@@ -24,6 +24,7 @@ I'm currently a undergraduate student set to graduate in May 2022 and a software
 ![image](https://img.shields.io/badge/Amazon_AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![image](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 ![image](https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white)
+____
 
 
 
