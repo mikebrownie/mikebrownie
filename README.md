@@ -1,11 +1,10 @@
 ### Hi there, I'm Mikey 👋
 ____
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-brown-26a274166/)
-[![image](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:freecode.git@gmail.com)
 ____
 I'm currently a undergraduate student set to graduate in May 2022 and a software engineer over at [The Collaboratory](https://thecollaboratory.ai/collaboratory/).
 
-- 🔭 I’m currently working on [a new kind of search](https://thecollaboratory.ai/collaboratory/about-us).
+- 🔭 I’m currently working on [a new kind of search](https://thecollaboratory.ai/collaboratory/).
 - 🌱 I’m currently learning about natural language processing.
 - 💬 Ask me about my web scrapers!
 - 😄 Pronouns: he/him
