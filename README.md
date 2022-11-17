@@ -1,10 +1,8 @@
-### Hi there, I'm Mikey 👋
+### Hi there 👋
 ____
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-brown-26a274166/)
 ____
-I'm currently a undergraduate student set to graduate in May 2022 and a software engineer over at [The Collaboratory](https://thecollaboratory.ai/collaboratory/).
 
-- 🔭 I’m currently working on [a new kind of search](https://thecollaboratory.ai/collaboratory/).
 - 🌱 I’m currently learning about [Tools for the Web3 Data Economy](https://github.com/nile-data/market).
 - 💬 Ask me about my web scrapers!
 - 😄 Pronouns: he/him
