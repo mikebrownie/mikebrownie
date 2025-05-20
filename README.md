@@ -3,9 +3,7 @@ ____
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/michael-brown-26a274166/)
 ____
 
-- 🌱 I’m currently learning about [Tools for the Web3 Data Economy](https://github.com/nile-data/market).
 - 💬 Ask me about my web scrapers!
-- 😄 Pronouns: he/him
 
 ____
 
